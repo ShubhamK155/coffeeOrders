@@ -1,2 +1,6 @@
-# coffee Orders
-Designed excel dashboard for real-time insights and data visualization. Conducted impactful sales analysis using, advanced Excel features, driving operational efficiency and elevating customer experience.  
+# Coffee order sales data analysis
+
+-	Developed an interactive Excel dashboard through data cleaning, manipulation, and visualization, granting instant access to crucial insights for informed, data-driven strategies.
+-	
+-	Applied advanced Excel features (VLOOKUP, Pivot tables, charts, conditional formatting, VBA, timeline, etc.) to propel transformative sales analysis, enhancing operational efficiency and setting a higher standard for customer satisfaction.
+
